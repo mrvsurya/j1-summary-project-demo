@@ -1,1 +1,6 @@
-# Test file for artefacts
+# Test file for datastore
+
+def _import(somefile):
+    """
+    """
+    pass
